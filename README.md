@@ -6,3 +6,4 @@
 3、创建service仅接口模块，为了让此接口被多个模块调用
 4、创建controller/mapper/impl模块，它们之间的关系比较紧密
 
+#商品和spu商品的初步
